@@ -1,6 +1,7 @@
 # HTMLTESTERWEBSITE
- html test website
+ Welcome to the HTMLTESTERWEBSITE!
+ 
+ Join the discussion with our discord server: https://discord.gg/bdVPmVRu
 
 
-## Hello welcome to the HTMLTESTERWEBSITE
-  Hola
+
